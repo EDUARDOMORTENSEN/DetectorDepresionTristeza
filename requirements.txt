@@ -1,0 +1,5 @@
+streamlit
+deepface
+tensorflow==2.12.0
+keras==2.12.0
+opencv-python
