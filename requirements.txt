@@ -1,5 +1,5 @@
 streamlit
-deepface==0.0.95
+deepface==0.0.79
 tensorflow==2.13.0
 keras==2.13.1
 opencv-python
