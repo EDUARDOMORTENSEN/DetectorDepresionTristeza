@@ -6,3 +6,4 @@ opencv-python
 ml-dtypes==0.2.0
 numpy==1.23.5
 pandas
+mediapipe
